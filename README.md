@@ -1,5 +1,6 @@
 # DirRipper
 A primitive python program to download files from a HTTPS-directory
+
 Currently only works with pdf files
 
 TODO
